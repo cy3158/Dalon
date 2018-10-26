@@ -1,4 +1,7 @@
 <?php
-class Wechat {
-	
+class Wechat
+{
+	public function xx(){
+		return 1233;
+	}
 }
